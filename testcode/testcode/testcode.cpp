@@ -6,6 +6,7 @@ int sum(int* a, int* b)
 	*a += 15;
 	return *a + *b;
 }
+
 int main(int argc, char const* argv[])
 {
 
